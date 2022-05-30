@@ -1,2 +1,2 @@
 # FXMAG_page
-https://neon-bienenstitch-f0f530.netlify.app/
+https://playful-nasturtium-322924.netlify.app
