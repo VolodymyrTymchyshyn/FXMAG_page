@@ -1,2 +1,2 @@
 # FXMAG_page
-https://playful-nasturtium-322924.netlify.app
+https://golden-kitsune-17f7fc.netlify.app
